@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "MONGO_USER" : "admingrapgql",
+        "MONGO_PASS" : "S6jkrbWM3SWhbi8u",
+        "MONGO_DB" : "graphQL"
+    }
+}
